@@ -12,5 +12,5 @@ http://example.com/
 http://example.com/tags/JavaScript/
 http://example.com/tags/ES6/
 http://example.com/tags/Java/
-http://example.com/tags/Vue/
 http://example.com/tags/git/
+http://example.com/tags/Vue/
